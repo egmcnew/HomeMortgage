@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HomeMortgage</string>
+    <string name="pic1">mortgage</string>
+    <string name="title">Home Mortgage Interest</string>
+    <string name="but1">COMPUTE INTEREST</string>
+    <string name="input1">Monthly Payment</string>
+    <string name="input2">Number of Years</string>
+    <string name="input3">Initial Principal</string>
+    <string name="loanNum">Loan Years</string>
+    <string name="txtInterest">Total Interest Paid</string>
+    <string name="pic2">LoanImage</string>
+    <string name="pic10">10</string>
+    <string name="pic20">20</string>
+    <string name="pic30">30</string>
+</resources>
